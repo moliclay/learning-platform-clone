@@ -1,0 +1,5 @@
+node_modules
+dist
+.trae
+*.local
+微信图片_*.png
